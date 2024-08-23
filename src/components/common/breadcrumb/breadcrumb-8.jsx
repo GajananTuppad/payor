@@ -37,7 +37,7 @@ const BreadcrumbEight = ({title}) => {
           <div className="col-xxl-5 col-lg-5">
             <div className="breadcrumb__content breadcrumb__content-2 p-relative z-index-1">
               <p>
-                JDC IT allows your business and technology computers to store,
+                Emids allows your business and technology computers to store,
                 transmit, analyze, and manipulate big data.
               </p>
             </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Jdcicon = () => {
+const emidsicon = () => {
   return (
     <svg
       width="48"
@@ -29,4 +29,4 @@ const Jdcicon = () => {
   );
 };
 
-export default Jdcicon;
+export default emidsicon;

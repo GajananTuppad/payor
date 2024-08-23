@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <clipPath id="clip-Vuejs">
+      <rect width="58" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="Vuejs" clip-path="url(#clip-Vuejs)">
+    <rect width="58" height="58" fill="#fff"/>
+    <g id="vue-js-1" transform="translate(2 6)">
+      <path id="Path_131038" data-name="Path 131038" d="M33.105,0,26.894,10.758,20.683,0H0L26.894,46.583,53.788,0Z" fill="#4dba87"/>
+      <path id="Path_131039" data-name="Path 131039" d="M522.348,0l-6.211,10.758L509.925,0H500l16.136,27.948L532.273,0Z" transform="translate(-489.242)" fill="#435466"/>
+    </g>
+  </g>
+</svg>

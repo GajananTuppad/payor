@@ -1,7 +1,7 @@
 import "../styles/index.scss"
 
 export const metadata = {
-  title: "Emids",
+  title: "HC Payor",
 };
 
 

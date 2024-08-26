@@ -1,6 +1,6 @@
 import React from 'react';
 
-const emidsicon = () => {
+const hcpayoricon = () => {
   return (
     <svg
       width="48"
@@ -29,4 +29,4 @@ const emidsicon = () => {
   );
 };
 
-export default emidsicon;
+export default hcpayoricon;

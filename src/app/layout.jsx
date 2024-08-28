@@ -29,7 +29,7 @@ const RootLayout = ({ children }) => {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="favicon-edited.png" sizes="any" />
+        <link rel="icon" href="favicon-edited.ico" sizes="any" />
       </head>
       <body className={`${poppins.variable} ${inter.variable} ${space.variable}`}>{children}</body>
     </html>

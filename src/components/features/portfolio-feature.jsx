@@ -69,7 +69,7 @@ const PortfolioFeature = () => {
 
   return (
     <>
-      <section className="features__area pt-120 pb-120 grey-bg-7">
+      <section className="features__area pt-120 pb-20 grey-bg-2">
         <div className="container">
           <div
             className="tp-section-wrapper-3 mb-80 text-center wow fadeInUp"
